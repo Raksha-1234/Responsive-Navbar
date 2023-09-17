@@ -1,0 +1,153 @@
+.parent{
+    width: 100%;
+    height: 1000px;
+    /* border: 2px solid black; */
+    display: flex;
+    justify-content: center; 
+     align-items: center;
+     background-image: url(./Images/bg04.png);
+}
+.parent2{
+    width: 84%;
+    height: 900px;
+    /* border: 2px solid red; */
+    /* padding: 20px; */
+    display: flex;
+    justify-content: space-between; 
+     align-items: center;
+}
+
+.sec1{
+    width: 235px;
+    height: 440px;
+    /* border: 2px solid purple; */
+    padding: 25px;
+    background-color: white;
+    box-shadow: 1px 1px 4px 1px rgb(156, 156, 156);
+    
+}
+.sec1 h1{
+    font-size: 1.6rem;
+   padding-bottom: 10px;
+}
+.sec1 p{
+    font-size: 1.1rem;
+    line-height: 1.6;
+   
+}
+
+.sec1 ul li{
+    list-style-type: none;
+ 
+}
+.sec1 ul li a{
+    line-height: 2.2;
+    font-size: 1.05rem;
+    color: rgb(234, 78, 31);
+    margin-left: -25px;
+   
+}
+
+.sec2{
+    width: 235px;
+    height: 330px;
+    padding: 25px;
+   /* border: 2px solid greenyellow; */
+   margin-top: 25px;
+   background-color: white;
+   box-shadow: 1px 1px 4px 1px rgb(156, 156, 156);
+}
+.sec2 h1{
+    font-size: 1.6rem;
+   padding-bottom: 10px;
+}
+.sec2 ul li{
+    list-style-type: none;
+ 
+}
+.sec2 ul li a{
+    line-height: 2.2;
+    font-size: 1.05rem;
+    color: rgb(234, 78, 31);
+    margin-left: -25px;
+   
+}
+
+.page{
+    width: 590px;
+    height: 858px;
+    /* border: 2px solid blue; */
+    padding: 20px;
+    background-color: white;
+    box-shadow: 1px 1px 4px 1px rgb(156, 156, 156);
+   
+}
+.page h1{
+    font-size: 1.6rem;
+   
+}
+.page h4{
+     color: #546b76;;
+    font-size: 1.2rem;
+     padding-bottom: 10px;
+}
+.page p{
+    font-size: 1.05rem;
+    line-height: 1.7;
+}
+
+.sec3{
+ 
+    width: 235px;
+    height: 330px;
+    background-color: white;
+    padding: 25px;
+   /* border: 2px solid greenyellow; */
+   box-shadow: 1px 1px 4px 1px rgb(156, 156, 156);
+  
+}
+.sec3 h1{
+    font-size: 1.6rem;
+   padding-bottom: 10px;
+}
+.sec3 ul li{
+    list-style-type: none;
+ 
+}
+.sec3 ul li a{
+    line-height: 2.2;
+    font-size: 1.05rem;
+    color: rgb(234, 78, 31);
+    margin-left: -25px;
+   
+}
+.sec4{
+    width: 235px;
+    height: 440px;
+    /* border: 2px solid purple; */
+    padding: 25px;
+    margin-top: 25px; 
+    background-color: white;
+    box-shadow: 1px 1px 4px 1px rgb(156, 156, 156);
+}
+.sec4 h1{
+    font-size: 1.6rem;
+   padding-bottom: 10px;
+}
+.sec4 p{
+    font-size: 1.1rem;
+    line-height: 1.6;
+   
+}
+
+.sec4 ul li{
+    list-style-type: none;
+ 
+}
+.sec4 ul li a{
+    line-height: 2.2;
+    font-size: 1.05rem;
+    color: rgb(234, 78, 31);
+    margin-left: -25px;
+   
+}
